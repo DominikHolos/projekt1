@@ -1,0 +1,46 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+h1:hover{
+    font-size:30 ;
+    color:white;
+
+    }
+.spoiler {
+    color:black;
+    background-color: black;
+    width: 100vw;
+    text-align:center;
+    margin: 0px;
+    }
+h2 {
+    color:blue;
+    font-size:30 ;
+    background-color: lightblue;
+    width: 100vw;
+    text-align: center;
+    border: 1px dashed gray;
+    }
+header ul{
+    display:block;
+    list-style-type: none;
+    justify-content: space-evenly;
+    background-color: blue;
+    height: 80px;
+    align-items: center;
+
+}
+
+header a {
+    color: white;
+}
+.important{
+    color:seagreen
+}
+.yellow{
+    font-style: italic;
+}
+#important{
+    color:red
+}
